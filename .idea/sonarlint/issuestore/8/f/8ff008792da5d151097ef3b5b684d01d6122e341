@@ -1,0 +1,8 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(êÃï×úÿÿÿÿ
+.
+java:S2176"Rename this record.(êÃï×úÿÿÿÿ
+Ç
+java:S1598"©This file "Record.java" should be located in "labPao/arrays" directory, not in "/Users/nycuro/IdeaProjects/LaboratorPAO/pao_lab1_e2 (arrays)/src/ro/nicolaemariusghergu".(Ç„–8­Å¹¡÷/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç„–
